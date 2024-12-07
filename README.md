@@ -6,7 +6,7 @@ My goal in creating this chess program was to deepen my understanding of game de
 
 To access and edit the project in Unity, open the Unity Hub editor and create a new project. You can name it "chess" or whatever else you like. Download the assets, packages, and project settings folders included in this github repo and replace the folders in your new project with the files in this repo. When you open the editor, you should then see the game. You can edit or play the game from the editor. If you would simply like to play the game, an exe file is included.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[3D Chess Demo](https://youtu.be/Dvx3eViwEcU?si=04LhPU-zxZIaUdgo)
 
 # Development Environment
 
