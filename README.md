@@ -4,6 +4,8 @@ This is a 3D chess program, designed for two players to take turns moving pieces
 
 My goal in creating this chess program was to deepen my understanding of game development by exploring its core concepts and mechanics. By working on this project, I gained hands-on experience with game design, such as state management, user interaction, and object-oriented programming. I implemented features like move validation, piece selection, and user inputs, which allowed me to strengthen my problem-solving skills while learning how to structure complex systems effectively. This program also introduced me to important game development workflows, including handling visual feedback, managing game states, and integrating user controls, which are essential for building more advanced games in the future. In short, developing this game strengthened and grew my technical knowledge and prepare me for larger, more complex game development.
 
+To access and edit the project in Unity, open the Unity Hub editor and create a new project. You can name it "chess" or whatever else you like. Download the assets, packages, and project settings folders included in this github repo and replace the folders in your new project with the files in this repo. When you open the editor, you should then see the game. You can edit or play the game from the editor. If you would simply like to play the game, an exe file is included.
+
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
@@ -14,7 +16,6 @@ For the programming portion of the game development, I used C#. I also used the 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Kodeco Chess Tutorial](https://www.kodeco.com/5441-how-to-make-a-chess-game-with-unity)
 * [Unity](https://unity.com/)
 
