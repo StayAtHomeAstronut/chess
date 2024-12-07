@@ -23,4 +23,5 @@ For the programming portion of the game development, I used C#. I also used the 
 
 * Introduce an option to play in 2-player mode or against an AI
 * Introduce the En-Pessant gamerule.
+* Introduce a messaging system to let the user know they are in check.
 * Introduce a UI and improve the game environment
